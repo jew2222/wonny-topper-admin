@@ -1,11 +1,116 @@
-.main-title { display: inline-block; }
-.page-adress { float:right; }
+.main-title {
+  display: inline-block;
+}
+.page-adress {
+  float: right;
+}
+.tx-align-left {
+  text-align: left;
+}
+.tx-align-right {
+  text-align: right;
+}
+.ib {
+  display: inline-block;
+  /* vertical-align: top; */
+}
 
-.btn-area{
-    width: 150px;
+.btn-area {
+  width: 150px;
 }
 .btn {
-    color: #fff;
-    background-color: #ea4335;
+  color: #fff;
+  background-color: #4e73df;
+}
+.btn-blue {
+}
+.btn-dark {
+  color: #fff;
+  background-color: #5a5c69;
+}
+.ckbox-inline {
+  padding-right: 30px;
+}
+/* 필터 영역  */
+.search-panel-body {
+}
+.panel-body {
+  padding: 15px 0;
 }
 
+.filter-inputs {
+  display: inline-block;
+}
+.filter-category {
+}
+
+.content-table {
+  text-align: center;
+}
+
+.calender-icon {
+  padding: 10px 12px;
+  font-size: 18px;
+}
+
+.tx-icon {
+  min-width: 36px;
+  line-height: 2.2em;
+  text-align: center;
+}
+
+.datepicker {
+}
+.datepicker-dropdown {
+}
+.datepicker table {
+  height: 200px;
+}
+
+.datepicker table tr {
+}
+.card-body .row {
+  display: inline-block;
+  width: 100%;
+}
+
+/* 툴 영역 */
+.admin-btn-tool {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  clear: both;
+}
+
+.tool-select {
+  vertical-align: middle;
+  padding-right: 10px;
+}
+
+.tool-btn button,
+.tool-btn a,
+.tool-select {
+}
+
+#dataTable_wrapper .row .col-md-7 {
+  max-width: 100% !important;
+}
+
+.pagination {
+  justify-content: center !important;
+}
+
+div.dataTables_wrapper div.dataTables_paginate ul.pagination {
+  /* justify-content: normal !important; */
+}
+
+
+
+/* register */
+.register-sub-title{
+    padding-top:1rem;
+}
+.register-content-body{
+    padding-top:1rem;
+
+}
