@@ -1,0 +1,11 @@
+.main-title { display: inline-block; }
+.page-adress { float:right; }
+
+.btn-area{
+    width: 150px;
+}
+.btn {
+    color: #fff;
+    background-color: #ea4335;
+}
+
